@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rosidevbr
 - 👀 I’m interested in learning about technology.
-- 🌱 I’m currently learning how to code.
+- 🌱 I’m currently learning programming logic.
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me, via email at alvs.rosi@gmail.com.
 
